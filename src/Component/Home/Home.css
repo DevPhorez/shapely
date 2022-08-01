@@ -1,0 +1,27 @@
+.background-image {
+    height: 100vh;
+    background-image: url('../../../public/Images/bg-home.jpg');
+    background-size: cover;
+}
+
+button {
+    transition: .3s !important;
+}
+
+#home h1 {
+    font-weight: 400;
+    padding-top: calc(26% - 100px);
+}
+
+#home div button {
+    font-size: 14px !important;
+}
+
+.bg-purple {
+    background-color: #6545c5 !important;
+}
+
+.btn-purple:hover {
+    color: #fff !important;
+    background-color: #523b94 !important;
+}
