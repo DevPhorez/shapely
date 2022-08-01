@@ -1,0 +1,11 @@
+.fs-7 {
+    font-size: .75rem !important;
+}
+
+a {
+    transition: .3s !important;
+}
+
+a:hover:not(.brand), .text-purple {
+    color: #5234f9 !important;
+}
