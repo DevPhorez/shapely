@@ -5,6 +5,7 @@ import Portfolio from "./Component/Portfolio/Portfolio";
 import Projects from "./Component/Projects/Projects";
 import CustomerComment from "./Component/Customer Comment/CustomerComment";
 import Clients from "./Component/Clients/Clients";
+import Footer from "./Component/Footer/Footer";
 
 function App() {
 	return (
@@ -16,6 +17,7 @@ function App() {
 			<Projects />
 			<CustomerComment />
 			<Clients />
+			<Footer />
 		</>
 	);
 }
