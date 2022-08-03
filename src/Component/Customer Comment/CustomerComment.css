@@ -1,0 +1,19 @@
+.bg-image {
+    background-image: url('../../../public/Images/bg-customer.jpg');
+    background-size: cover;
+    height: 450px;
+}
+
+.pt-5-ph {
+    padding-top: 5rem;
+}
+
+.pb-5-ph {
+    padding-bottom: 5rem;
+}
+
+.customer-image {
+    width: 100px;
+    height: 100px;
+    border-radius: 100%;
+}
