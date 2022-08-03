@@ -6,7 +6,7 @@ import NavBarSearch from "./NavBarSearch/NavBarSearch";
 
 function ShapelyNavBar () {
 	return (
-		<Navbar className="py-3" expand="md" bg="white" fixed="top">
+		<Navbar className="py-3 border-bottom" expand="md" bg="white" fixed="top">
 			<Container>
 				<Navbar.Brand className="brand" style={ { fontWeight: 200 , fontSize: 24} } href="#">Shapely Demo</Navbar.Brand>
 				<Navbar.Toggle aria-controls={`offcanvasNavbar-expand-md`} />
